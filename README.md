@@ -15,7 +15,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently freelancer
+- 🔭 I’m currently an undergrad in Sun Yat-Sen University
 - 🌱 I’m currently learning go
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with write bug
