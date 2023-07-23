@@ -15,14 +15,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently an undergrad in Sun Yat-Sen University
-- 🌱 I’m currently learning go
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with write bug
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently an undergraduate student at Sun Yat-Sen University
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zixu-Wu&show_icons=true&locale=en&layout=compact" alt="Zixu-Wu" /></p>
 
 
